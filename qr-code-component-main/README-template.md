@@ -25,8 +25,8 @@ This project is QR card component with a short description that highlight the im
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/akuajoyce/ashqrcodechallange/tree/main)
+- Live Site URL: [Add live site URL here](https://ashqrcodechallange-ls4h.vercel.app/)
 
 ## My process
 
